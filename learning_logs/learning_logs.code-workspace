@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../ll_project"
+		},
+		{
+			"path": "../ll_env"
+		}
+	],
+	"settings": {}
+}
